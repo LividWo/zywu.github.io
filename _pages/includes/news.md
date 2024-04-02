@@ -1,2 +1,2 @@
 # 🔥 News
-- *2024.03*: 🎉 New homepage!
+- *2024.04.02*: 🎉 New homepage!
