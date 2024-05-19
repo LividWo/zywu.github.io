@@ -3,13 +3,14 @@
 
 ## 🤖 Agents
 - ``arXiv 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
-- ``arXiv 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
-- ``arXiv 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.
+- ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
+- ``ACL 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.
 - ``arXiv 2024`` [TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation](https://arxiv.org/pdf/2402.10178.pdf) Yaoxiang Wang, **Zhiyong Wu**, Junfeng Yao, Jinsong Su
 - ``arXiv 2023`` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280) Qiushi Sun, Zhangyue Yin, Xiang Li, **Zhiyong Wu**, Xipeng Qiu, Lingpeng Kong.
 
 ## ❓ In-Context Learning
 - ``arXiv 2023`` [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf), Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, **Zhiyong Wu**, et al.
+- ``ACL 2024 (findings)`` [LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs](https://arxiv.org/pdf/2402.11804), Kai Wang, Yuwei Xu, **Zhiyong Wu**, Siqiang Luo
 - ``ACL 2023`` [Self-adaptive In-context Learning](https://arxiv.org/abs/2212.10375), **Zhiyong Wu**, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong. 
 - ``ACL 2023 (demo)`` [OpenICL: An Open-Source Framework for In-context Learning](https://arxiv.org/abs/2303.02913), Zhenyu Wu, YaoXiang Wang, **Zhiyong Wu** et al.  [![](https://img.shields.io/github/stars/Shark-NLP/OpenICL?style=social&label=Code+Stars)](https://github.com/Shark-NLP/OpenICL)
 - ``ICML 2023`` [Compositional Exemplars for In-context Learning](https://arxiv.org/abs/2302.05698), Jiacheng Ye, **Zhiyong Wu**, Jiangtao Feng, Tao Yu, Lingpeng Kong. 
@@ -21,6 +22,7 @@
 - `EMNLP 2022` [ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback](https://arxiv.org/abs/2210.12329), Jiacheng Ye, Jiahui Gao, **Zhiyong Wu**, Jiangtao Feng, Tao Yu, and Lingpeng Kong.
 
 ## 🎼 Interpretability
+- ``ACL 2024 (findings)`` [How Vocabulary Sharing Facilitates Multilingualism in LLaMA?](https://arxiv.org/pdf/2311.09071), Fei Yuan, Shuai Yuan, **Zhiyong Wu**, Lei Li
 - `ACL 2023 (findings)` [Explanation Regeneration via Information Bottleneck](https://arxiv.org/abs/2212.09603) Qintong Li, **Zhiyong Wu**, Lingpeng Kong, Wei Bi.
 - `AAAI 2023` [Unsupervised Explanation Generation via Correct Instantiations](https://arxiv.org/abs/2211.11160) Sijie Chen, **Zhiyong Wu**, Jiangjie Chen, Zhixing Li, Yang Liu, and Lingpeng Kong
 - `ACL 2021` [Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/pdf/2105.14462.pdf), **Zhiyong Wu**, Lingpeng Kong, Wei Bi, Xiang Li, Ben Kao. 
