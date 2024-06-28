@@ -2,11 +2,12 @@
 # 📚 Full Publication List
 
 ## 🤖 Agents
+- ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.
 - ``arXiv 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
 - ``ACL 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.
 - ``arXiv 2024`` [TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation](https://arxiv.org/pdf/2402.10178.pdf) Yaoxiang Wang, **Zhiyong Wu**, Junfeng Yao, Jinsong Su
-- ``arXiv 2023`` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280) Qiushi Sun, Zhangyue Yin, Xiang Li, **Zhiyong Wu**, Xipeng Qiu, Lingpeng Kong.
+- ``COLM 2024`` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280) Qiushi Sun, Zhangyue Yin, Xiang Li, **Zhiyong Wu**, Xipeng Qiu, Lingpeng Kong.
 
 ## ❓ In-Context Learning
 - ``arXiv 2023`` [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf), Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, **Zhiyong Wu**, et al.
@@ -36,3 +37,9 @@
 - ``ICLR 2023`` [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong.
 - `ACL 2021` [Lexical Knowledge Internalization for Neural Conversational Models](https://arxiv.org/abs/2205.01941) **Zhiyong Wu**, Wei Bi, Xiang Li, Lingpeng Kong, Ben Kao.
 - ``ACL 2021`` [Cascaded Head-colliding Attention](https://arxiv.org/pdf/2105.14850.pdf) Lin Zheng, **Zhiyong Wu**, Lingpeng Kong
+
+
+
+This page has been accessed at least <a href="http://stuff.mit.edu/doc/counter-howto.html"><img src="http://stuff.mit.edu/cgi/counter/zywuhku" alt="several"></a> times since 2024.07
+
+<a href="https://info.flagcounter.com/WKIA"><img src="https://s11.flagcounter.com/count/WKIA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
