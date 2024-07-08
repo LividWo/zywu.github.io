@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhiyong Wu (吴志勇)"
 description              : "Research scientist in Shanghai AI Lab"
-repository               : git@github.com:LividWo/zywu.github.io.git
+repository               : "LividWo/zywu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
