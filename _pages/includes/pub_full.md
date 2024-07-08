@@ -40,6 +40,7 @@
 
 
 
-This page has been accessed at least <a href="http://stuff.mit.edu/doc/counter-howto.html"><img src="http://stuff.mit.edu/cgi/counter/zywuhku" alt="several"></a> times since 2024.07
+[//]: # (This page has been accessed at least <a href="http://stuff.mit.edu/doc/counter-howto.html"><img src="http://stuff.mit.edu/cgi/counter/zywuhku" alt="several"></a> times since 2024.07)
 
-<a href="https://info.flagcounter.com/WKIA"><img src="https://s11.flagcounter.com/count/WKIA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+[//]: # (<a href="https://info.flagcounter.com/WKIA"><img src="https://s11.flagcounter.com/count/WKIA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>)
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cP3LIz__k8H4ZWBqup_yoMy1wTIWY9iY1Xit_18C79U&cl=ffffff&w=250"></script>

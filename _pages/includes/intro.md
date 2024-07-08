@@ -5,4 +5,4 @@ I am also working closely with [Lingpeng Kong](https://ikekonglp.github.io/index
 My research centers around large language models (LLMs) with a special focus on building the next generation of natural language interfaces that can interact with and learn from real-world environments. You can find a prototype of my ambitious goal at [OS-Copilot](https://os-copilot.github.io/).
 
 
-<span style="color:red">**I have multiple internship positions available (OS-Copilot related and language agent in general)**</span> , please feel free to hit me up with your CV or questions if interested.
+<span style="color:red">**I have multiple internship positions available (Language agent, Self-evolving, RL)**</span> , please feel free to hit me up with your CV or questions if interested.
