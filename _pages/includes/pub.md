@@ -6,7 +6,7 @@
 [//]: # (## 🤖 Computer Agents)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workshop@ICLR 2024</div><img src='images/friday.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLMAgents@ICLR 2024</div><img src='images/friday.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) \\
