@@ -2,8 +2,10 @@
 # 📚 Full Publication List
 
 ## 🤖 Agents
+- ``arXiv 2024`` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218), **Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
+- ``arXiv 2024`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**.
 - ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.
-- ``arXiv 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
+- ``LLMAgents@ICLR 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
 - ``ACL 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.
 - ``arXiv 2024`` [TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation](https://arxiv.org/pdf/2402.10178.pdf) Yaoxiang Wang, **Zhiyong Wu**, Junfeng Yao, Jinsong Su
@@ -32,6 +34,7 @@
 
 
 ## 🧑‍🎨 Generative Model
+- ``arXiv 2024`` [A Controlled Study on Long-Context Extension and Generalization in LLMs.](https://arxiv.org/abs/2409.12181), Yi Lu*, Jing Nathan Yan*, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, **Zhiyong Wu**, Alexander M. Rush.
 - ``ICLR 2024`` [EMO: Earth Mover Distance Optimization for Auto-Regressive Language Modeling](https://arxiv.org/abs/2310.04691), Siyu Ren, **Zhiyong Wu**, Kenny Q Zhu.
 - ``EMNLP 2023 (findings)`` [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793)Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong.
 - ``ICLR 2023`` [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong.

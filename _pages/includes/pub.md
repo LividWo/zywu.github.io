@@ -6,11 +6,24 @@
 [//]: # (## 🤖 Computer Agents)
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/atlas.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218) \\
+**Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
+
+- Check demos at [**Our Website**](https://osatlas.github.io/) 
+- STOA GUI grounding&action model [**Code** ![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social)](https://github.com/OS-Copilot/OS-Atlas). 
+- Repost and like us on [Twitter](https://x.com/zywu_hku/status/1853401677367497023)
+</div>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LLMAgents@ICLR 2024</div><img src='images/friday.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) \\
-**Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
+**Zhiyong Wu**, Chengcheng Han*, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
 
 
 - Check demos at [**Our Website**](https://os-copilot.github.io/) 
@@ -99,8 +112,8 @@
 
 [//]: # (</div>)
 
+- ``arXiv 2024`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**. [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)
 - ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
-- ``ICLR 2024`` [EMO: Earth Mover Distance Optimization for Auto-Regressive Language Modeling](https://arxiv.org/abs/2310.04691), Siyu Ren, **Zhiyong Wu**, Kenny Q Zhu. [![](https://img.shields.io/github/stars/DRSY/EMO?style=social&label=Code+Stars)](https://github.com/DRSY/EMO)
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
 - ``ACL 2023`` [Self-adaptive In-context Learning](https://arxiv.org/abs/2212.10375), **Zhiyong Wu**, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong. [![](https://img.shields.io/github/stars/Shark-NLP/OpenICL?style=social&label=Code+Stars)](https://github.com/Shark-NLP/OpenICL)
 - `ICLR 2023` [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933), Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong [![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social&label=Code+Stars)](https://github.com/Shark-NLP/DiffuSeq)
