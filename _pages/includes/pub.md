@@ -13,7 +13,7 @@
 **Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
 
 - Check demos at [**Our Website**](https://osatlas.github.io/) 
-- STOA GUI grounding&action model [**Code** ![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social)](https://github.com/OS-Copilot/OS-Atlas). 
+- SOTA GUI grounding and action model upon which you can easily build your own agent. [**Code** ![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social)](https://github.com/OS-Copilot/OS-Atlas).
 - Repost and like us on [Twitter](https://x.com/zywu_hku/status/1853401677367497023)
 </div>
 
