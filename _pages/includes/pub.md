@@ -6,7 +6,7 @@
 [//]: # (## 🤖 Computer Agents)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/atlas.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR'25 Spotlight</div><img src='images/atlas.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218) \\
@@ -112,8 +112,8 @@
 
 [//]: # (</div>)
 
-- ``arXiv 2024`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**. [![](https://img.shields.io/github/stars/chengyou-jia/AgentStore?style=social&label=Code+Stars)](https://github.com/chengyou-jia/AgentStore)
-- ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
+- ``arXiv`` [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723), Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, **Zhiyong Wu**. [![](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Genesis)
+- ``arXiv`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. [![](https://img.shields.io/github/stars/njucckevin/SeeClick?style=social&label=Code+Stars)](https://github.com/njucckevin/SeeClick)
 - ``ACL 2023`` [Self-adaptive In-context Learning](https://arxiv.org/abs/2212.10375), **Zhiyong Wu**, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong. [![](https://img.shields.io/github/stars/Shark-NLP/OpenICL?style=social&label=Code+Stars)](https://github.com/Shark-NLP/OpenICL)
 - `ICLR 2023` [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933), Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong [![](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq?style=social&label=Code+Stars)](https://github.com/Shark-NLP/DiffuSeq)

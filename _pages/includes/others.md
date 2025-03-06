@@ -1,7 +1,7 @@
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2017.09 - 2021.11*, PhD, University of Hong Kong.
-- *2013.09 - 2017.06*, Undergraduate, Wuhan Univeristy.
+- *2013.09 - 2017.06*, Undergraduate, Wuhan Univeristy. -->
 
 [//]: # ()
 [//]: # (# 💬 Invited Talks)

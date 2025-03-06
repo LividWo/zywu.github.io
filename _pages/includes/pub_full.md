@@ -2,17 +2,17 @@
 # 📚 Full Publication List
 
 ## 🤖 Agents
-- ``arXiv 2024`` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218), **Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
+- ``ICLR 2025 (Spotlight)`` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218), **Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
 - ``arXiv 2024`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**.
 - ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.
 - ``LLMAgents@ICLR 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
 - ``ACL 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.
-- ``arXiv 2024`` [TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation](https://arxiv.org/pdf/2402.10178.pdf) Yaoxiang Wang, **Zhiyong Wu**, Junfeng Yao, Jinsong Su
+- ``Neural Networks`` [TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation](https://arxiv.org/pdf/2402.10178.pdf) Yaoxiang Wang, **Zhiyong Wu**, Junfeng Yao, Jinsong Su
 - ``COLM 2024`` [Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration](https://arxiv.org/abs/2310.00280) Qiushi Sun, Zhangyue Yin, Xiang Li, **Zhiyong Wu**, Xipeng Qiu, Lingpeng Kong.
 
 ## ❓ In-Context Learning
-- ``arXiv 2023`` [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf), Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, **Zhiyong Wu**, et al.
+- ``EMNLP 2024`` [A Survey on In-context Learning](https://arxiv.org/pdf/2301.00234.pdf), Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, **Zhiyong Wu**, et al.
 - ``ACL 2024 (findings)`` [LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs](https://arxiv.org/pdf/2402.11804), Kai Wang, Yuwei Xu, **Zhiyong Wu**, Siqiang Luo
 - ``ACL 2023`` [Self-adaptive In-context Learning](https://arxiv.org/abs/2212.10375), **Zhiyong Wu**, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong. 
 - ``ACL 2023 (demo)`` [OpenICL: An Open-Source Framework for In-context Learning](https://arxiv.org/abs/2303.02913), Zhenyu Wu, YaoXiang Wang, **Zhiyong Wu** et al.  [![](https://img.shields.io/github/stars/Shark-NLP/OpenICL?style=social&label=Code+Stars)](https://github.com/Shark-NLP/OpenICL)
@@ -34,6 +34,7 @@
 
 
 ## 🧑‍🎨 Generative Model
+- ``ICLR 2025`` [Implicit Search via Discrete Diffusion: A Study on Chess](https://arxiv.org/pdf/2502.19805), Jiacheng Ye, Zhenyu Wu, Jiahui Gao, **Zhiyong Wu**, Xin Jiang, Zhenguo Li, Lingpeng Kong.
 - ``arXiv 2024`` [A Controlled Study on Long-Context Extension and Generalization in LLMs.](https://arxiv.org/abs/2409.12181), Yi Lu*, Jing Nathan Yan*, Songlin Yang, Justin T. Chiu, Siyu Ren, Fei Yuan, Wenting Zhao, **Zhiyong Wu**, Alexander M. Rush.
 - ``ICLR 2024`` [EMO: Earth Mover Distance Optimization for Auto-Regressive Language Modeling](https://arxiv.org/abs/2310.04691), Siyu Ren, **Zhiyong Wu**, Kenny Q Zhu.
 - ``EMNLP 2023 (findings)`` [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793)Shansan Gong, Mukai Li, Jiangtao Feng, **Zhiyong Wu**, Lingpeng Kong.
