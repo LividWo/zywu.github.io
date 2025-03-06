@@ -1,4 +1,4 @@
-Hi! I am exploring something new now! \\
+Hi! I am exploring something new now! 
 
 <del>I am a research scientist at Shanghai AI Lab.</del> I got my PhD degree from the University of Hong Kong
 at the end of 2021, affiliated with the HKU database group and [NLP group](https://nlp.cs.hku.hk/). 
