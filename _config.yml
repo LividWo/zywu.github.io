@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyong Wu (吴志勇)"
-description              : "Research scientist in Shanghai AI Lab"
+description              : "Research scientist in Bytedance Seed"
 repository               : "LividWo/zywu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Zhiyong Wu (吴志勇)"
   avatar           : "images/profile.png"
-  bio              : "Shanghai AI Lab"
-  location         : "Shanghai, China"
+  bio              : "Bytedance Seed"
+  location         : "Shenzhen/Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wIlpfXEAAAAJ"
