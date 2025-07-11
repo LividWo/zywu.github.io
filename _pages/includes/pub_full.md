@@ -2,9 +2,10 @@
 # 📚 Full Publication List
 
 ## 🤖 Agents
+- ``arXiv`` [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897), Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, Kanzhi Cheng, Zhaoyang Liu, Jianing Wang, Qintong Li, Xiangru Tang, Tianbao Xie, Xiachong Feng, Xiang Li, Ben Kao, Wenhai Wang, Biqing Qi, Lingpeng Kong, **Zhiyong Wu**. 
 - ``ICLR 2025 (Spotlight)`` [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/abs/2410.23218), **Zhiyong Wu**, Zhenyu Wu*, Fangzhi Xu*, Yian Wang*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.
-- ``arXiv 2024`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**.
-- ``arXiv 2024`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.
+- ``ACL 2025`` [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603), Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, **Zhiyong Wu**.
+- ``ACL 2025`` [Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models](https://arxiv.org/abs/2406.11736), Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, **Zhiyong Wu**.
 - ``LLMAgents@ICLR 2024`` [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/pdf/2402.07456.pdf) **Zhiyong Wu**, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.
 - ``ACL 2024`` [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2311.09278), Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, **Zhiyong Wu**. 
 - ``ACL 2024`` [Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models](https://arxiv.org/abs/2311.09278), Fangzhi Xu, **Zhiyong Wu**, et al.

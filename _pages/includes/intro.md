@@ -7,7 +7,7 @@ at the end of 2021, affiliated with the HKU database group and [NLP group](https
 Before that, I received my B.E. degree from [Wuhan University](https://www.whu.edu.cn/en/) in 2017. 
 <!-- Throughout my graduate studies, I had great internships in Tencent AI Lab and Huawei Noah's Ark Lab. -->
 
-I am building general OS agents: [OS-Copilot](https://os-copilot.github.io/), [OS-Atlas](https://osatlas.github.io/), [OS-Genesis](https://qiushisun.github.io/OS-Genesis-Home/), [SeeClick](https://osatlas.github.io/).
+I am building general OS agents: [OS-Copilot](https://os-copilot.github.io/), [OS-Atlas](https://osatlas.github.io/), [OS-Genesis](https://qiushisun.github.io/OS-Genesis-Home/), [SeeClick](https://osatlas.github.io/), [ScienceBoard](https://qiushisun.github.io/ScienceBoard-Home/).
 <!-- My research centers around large language models (LLMs) with a special focus on building the next generation of natural language interfaces that can interact with and learn from real-world environments. You can find a prototype of my ambitious goal at [OS-Copilot](https://os-copilot.github.io/) and a series of related work:  -->
 
 
